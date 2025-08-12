@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "build": "vue-cli-service build --dest ../main/resources/static",
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "core-js": "^3.42.0",
+    "echarts": "^5.6.0",
+    "element-ui": "^2.15.14",
+    "mockjs": "^1.1.0",
+    "sweetalert2": "^11.22.0",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.27.1",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "eslint-plugin-vue": "^10.1.0"
+  }
+}
